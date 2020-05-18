@@ -14,7 +14,7 @@
 **chakra-ui-vue** gives you a set of accessible and composable Vue components that you can use to build your favourite applications and sites.
 
 > Hello, friend! 😄
-> **chakra-ui-vue** is currently under development. Majority of all the components ready and can be used!
+> **chakra-ui-vue** is currently under development. Majority of all the components are ready and can be used!
 > 
 > A more detailed documentation site is in the pipeline and will be released soon! Check out our [storybook](https://chakra-ui-vue.netlify.com) and [Codesandbox Vue & Nuxt Starters](#codesandbox-starters).
 
